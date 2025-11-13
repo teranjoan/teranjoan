@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate game developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Boreal IT!**
+- 🔭 I’m currently working on **Naranja X!**
 
 - 🌱 I’m currently learning **Game Development in Pro Game Developer**
 
